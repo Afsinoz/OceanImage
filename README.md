@@ -1,5 +1,7 @@
 # Sea Surface Height reconstructions using physics based variational approaches
 
+This is the code of the internship have done under the supervision of Nelly Pustelnik and Antoine Venaille at the physics laboratory of ENS de Lyon. 
+
 There are 9 folders here. 
 
 1. Datasets: It contains original and processed data sets. Original datasets with `.nc` extensions have been processed to 
